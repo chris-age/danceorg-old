@@ -12,7 +12,7 @@ Events veranstalte ich immer online, z.B. via Zoom-Meetings.
 
 Ich stehe nur für gemeinnüzige Events und Parties zur Verfügung. Meine Dienste sind kostenlos.
 
-Kontakt: post@dance123.org
+**Kontakt: post@dance123.org**
 
 <hr>
 
@@ -26,4 +26,4 @@ I always organize events online, e.g. via zoom meetings.
 
 I am only available for non-profit events and parties. My services are free.
 
-Contact: post@dance123.org
+**Contact: post@dance123.org**
