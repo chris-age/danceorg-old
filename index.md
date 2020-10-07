@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Kostenloser DJ für gemeinnüzige Online-Events 
 
 Mit generationsübergreifenden Temperament bringe ich seit über 10 Jahren unterschiedliche Events zu Ihrem Erfolg.
@@ -12,7 +16,7 @@ Kontakt: post@dance123.org
 
 <hr>
 
-# Free DJ for online charitable events
+# Free DJ for charitable online events
 
 With a cross-generational temperament, I have been bringing various events to your success for over 10 years.
 The difference between a Spotify playlist and a powerful DJ is clearly in the empathy and assessment of the situation.
